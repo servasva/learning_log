@@ -1,0 +1,6 @@
+# 默认忽略的文件
+ll_env/
+.idea/
+*.sqlite3
+
+
